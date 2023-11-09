@@ -64,10 +64,4 @@ body
 #mainContainer {
   width: 350px;
   margin: 0px auto;
-  padding: 20px 0px 0px 0px;
-  background-color: bisque;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-
 }
