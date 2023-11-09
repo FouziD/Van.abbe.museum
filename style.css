@@ -60,3 +60,9 @@ body
   background-color: #7eaa04;
   color: rgb(255, 255, 255);
 }
+
+#mainContainer {
+  width: 470px;
+  float: left;
+  margin: 0px 0px 0px 37px;
+}
