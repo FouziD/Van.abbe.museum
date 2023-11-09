@@ -37,3 +37,26 @@ body
     margin-right: 16px;
     font-size: 17px;
   }
+
+  /* Style the links inside the navigation bar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #c77373;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.navbar a:hover {
+  background-color:rgb(117, 189, 189);
+  color: rgb(255, 255, 255);
+}
+
+/* Add a color to the active/current link */
+.navbar a.active {
+  background-color: #7eaa04;
+  color: rgb(255, 255, 255);
+}
